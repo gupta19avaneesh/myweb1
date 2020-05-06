@@ -1,0 +1,3 @@
+
+echo "hook for triggering push"
+git push
